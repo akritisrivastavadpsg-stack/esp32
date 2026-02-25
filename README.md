@@ -47,7 +47,7 @@ Designed for easy modification and upgrades
 
 Clone the repository:
 
-git clone https://github.com/akritisrivastavadpsg-stack/esp32.git
+git clone https://github.com/akritisrivastava20/esp32.git
 
 Open the project in KiCad
 
